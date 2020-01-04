@@ -1,4 +1,3 @@
-# nbdev template
-
-Use this template to more easily create your nbdev project.
+# Exploration with nbdev
+Not too much to see here.
 
